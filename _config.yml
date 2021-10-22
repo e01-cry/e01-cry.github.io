@@ -16,10 +16,10 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'e01'
 NickName: 'e01'
-webtitle: 'what?'
+webtitle: 'devops & security'
 bio: '..........'
 about: true
-aboutyou: '一个普通人'
+aboutyou: 'nobody'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS

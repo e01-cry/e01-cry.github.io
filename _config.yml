@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'This is e01's blog'
+title: 'This is e01 blog'
 description: 'note & share knowledge'
 keywords: 'security,devops'
 url: 'https://e01-cry.github.io' # your host
@@ -16,10 +16,10 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'e01'
 NickName: 'e01'
-webtitle: '寻找'
+webtitle: 'devops & security'
 bio: '..........'
 about: true
-aboutyou: '一个普通人'
+aboutyou: 'nobody'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS

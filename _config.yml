@@ -20,7 +20,7 @@ webtitle: 'devops & security'
 bio: '..........'
 about: true
 aboutyou: 'nobody'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/profile.png' # your portraits image file path
 
 # SNS
 SNS: true

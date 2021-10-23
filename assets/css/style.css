@@ -303,7 +303,7 @@ a{
   text-align: center;
   -webkit-transition-duration: .5s;
           transition-duration: .5s;
-  color: #555;
+  color: #87CEEB;
 }
 .page-link:hover{
   background-color: orange;

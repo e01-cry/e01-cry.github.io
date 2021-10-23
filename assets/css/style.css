@@ -243,7 +243,7 @@ a{
   border-radius: 3px;
   /*border: 1px solid #e7eaf1;*/
   color: #87CEEB;
-  margin-left: 20px;
+  margin-left: 10px;
   line-height: 27px;
   background-color: grey;
   transition-duration: .5s;
@@ -286,7 +286,7 @@ a{
   /*background-color: blue;*/
   height: 60px;
   width: 120px;
-  border: 1px solid #e7eaf1;
+  /*border: 1px solid #e7eaf1;*/
   border-radius: 3px;
   margin: 0 auto;
   padding: 0 10px;
@@ -306,7 +306,7 @@ a{
   color: #555;
 }
 .page-link:hover{
-  background-color: #e7eaf1;
+  background-color: orange;
   -webkit-transition-duration: .5s;
           transition-duration: .5s;
 }

@@ -572,6 +572,7 @@ a{
   height: 550px;
   width: 100%;
   /*background-color: #9A85FF;*/
+  background-color: grey;
   background-image: url(/assets/lineart.png);
   background-size: 1188px 219px;
   background-position: top;

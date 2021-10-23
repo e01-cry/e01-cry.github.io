@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'This is e01 blog'
+title: 'e01-cry'
 description: 'note & share knowledge'
 keywords: 'security,devops'
 url: 'https://e01-cry.github.io' # your host
@@ -23,7 +23,7 @@ aboutyou: 'nobody'
 portraits: '/assets/profile.jpg' # your portraits image file path
 
 # SNS
-SNS: true
+SNS: false
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:abc@gmail.com'
   weixin: '' # 你的微信二维码存放的地址
@@ -76,11 +76,11 @@ client_id: ''  # 注册 OAuth Application 后获得的 client_id
 client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
-social-share: true
+social-share: false
 social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
-baidu: true
+baidu: false
 baidu-url: ''
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
 google: false

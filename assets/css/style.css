@@ -60,6 +60,7 @@ a{
 }
 .top-nav li a{
   color: #00FFFF;
+  font-weight: bold;
   /*display: block;*/
 }
 .top-nav li a:hover{
